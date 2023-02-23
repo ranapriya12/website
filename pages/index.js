@@ -8,13 +8,7 @@ export default function Home() {
 
     return (
         <div>
-            <Head>
-                <title>TripzyGo - Best Travel Agency in Gurgaon for the Best Holiday Package</title>
-                <meta name="description" content="TripzyGo International is the Best Travel Agency in Gurgaon that offers the best holiday packages at affordable prices. Book your customized best tour packages." />
-                <meta name="keywords" content="best tour packages, best travel agency in gurgaon, best holiday packages" />
-                <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
-                <link rel="icon" href="/icon.png" />
-            </Head>
+           
             <div>
 
              
